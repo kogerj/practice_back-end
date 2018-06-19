@@ -1,0 +1,8 @@
+.vscode/
+target/
+node_modules/
+db_create.sql
+db_dump.csv
+.project
+.classpath
+.settings/
